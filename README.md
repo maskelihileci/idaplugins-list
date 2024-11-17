@@ -475,4 +475,6 @@ Labeless provides easy to use dynamic dumping tool, which supports automatic on-
 
 * [Zynamics BinDiff](http://www.zynamics.com/bindiff.html): BinDiff is a comparison tool for binary files, that assists vulnerability researchers and engineers to quickly find differences and similarities in disassembled code.
 
+* [Retrospective Analysis](https://github.com/maskelihileci/Retrospective_Analysis): Retrospective Analysis is a plugin compatible with IDA Pro that enhances the reverse engineering process. It performs backward analysis of function calls using a layered system, predicts and modifies function types, and removes unused parameters after these modifications. This process aims to accelerate and simplify the analysis workflow for reverse engineers.
+
 ## Commercial Plugins
